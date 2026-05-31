@@ -140,7 +140,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -632,7 +632,7 @@
         "uuid": "cc9d0428-6520-4832-9764-3cca1b1cae12"
       }
     ],
-    "used_designators": "",
+    "used_designators": "BT1",
     "variants": []
   },
   "sheets": [
