@@ -1,0 +1,151 @@
+(footprint "7seg"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "951bade9-53bd-4639-93eb-1d102cc287cf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "7seg"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "faa74e74-7476-4e9e-ac7b-6d128132846b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5b69d1d8-988b-4965-a955-0f61c14743e6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "01757b7f-0a2b-48c1-89f8-2e2623151f83")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -12 -9)
+		(end -12 10)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "326df29a-284b-45e6-9f13-cc37f8614960")
+	)
+	(fp_line
+		(start -12 -9)
+		(end 89 -9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e2f31e35-ec2e-403e-9689-2be382fb762b")
+	)
+	(fp_line
+		(start -8 -9)
+		(end -8 -3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6b568a3b-4c7a-4a3d-900d-fc6435f753e7")
+	)
+	(fp_line
+		(start -8 10)
+		(end -8 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e7f93c29-4480-482d-b171-6b08a8d32db4")
+	)
+	(fp_line
+		(start 85 -9)
+		(end 85 -3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c9d0f8af-0c83-491e-8a48-188d4b766b3a")
+	)
+	(fp_line
+		(start 85 10)
+		(end 85 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2a9c590a-0cf2-45ec-ac0a-33227c5ae7a9")
+	)
+	(fp_line
+		(start 89 -9)
+		(end 89 10)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "378281cf-211f-4fa0-879b-4ef280bf07ba")
+	)
+	(fp_line
+		(start 89 10)
+		(end -12 10)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4a51f300-b7cb-4dba-8a9c-1b0584ebebb8")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "97462d46-0430-458d-9e2a-8ef500c64af8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
