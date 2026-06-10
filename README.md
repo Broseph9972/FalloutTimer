@@ -4,14 +4,15 @@ A simple timer that uses an RTC, A pi Pico, Some buttons, and some cheap 7 segme
 
 
 <img width="420" height="595" alt="A5 - 1" src="https://github.com/user-attachments/assets/4ae83264-a52e-4e0d-a913-774f428f5e3a" />
-[Zine.pdf](https://github.com/user-attachments/files/28614298/A5.-.1.pdf) [Onshape Link](https://cad.onshape.com/documents/6bae658a93b5202cb1d65720/w/262ed20c1d065847a6e9fe33/e/d5b84e51281ce6e2ab1dc7be?renderMode=0&uiState=6a21ee64cb0cf06db49b53b7)
+<img width="319" height="235" alt="image" src="https://github.com/user-attachments/assets/0ba8a0ad-52c9-4e15-8de2-1db5d18960f5" />
 
 
-It displays the time left in fallout with Day,Hour,Minutes,Seconds, similar to the fallout website. also i might get it to check streaks too maybe? <- no wifi so probably not. u would need a pico w aswell
+
+It displays the time left in fallout with Day,Hour,Minutes,Seconds, similar to the fallout website. also i might get it to check streaks too maybe? <- no wifi so probably not. u would need a pico w aswell. to 
 
 Assembly is relatively simple, solder parts into their respective spots then flash the firmware by holding down the boot button on the pico while plugging it in. then compile the code and drop the uf2 into the pico's flash. it should reboot and work.
 
-I decided to make it because i need more time for fallout and it seemed like a simple project i could do to increase my amount of approved hours. also it looks cool as wall deco.
+I decided to make it because i need more time for fallout and it seemed like a simple project i could do to increase my amount of approved hours. also it looks cool as wall deco. ill probably bring it to fallout to show the amount of time left
 <img width="1320" height="728" alt="image" src="https://github.com/user-attachments/assets/94dfe786-1922-444d-891d-0245b29c5797" />
 
 |Name                       |Price|Link                                                                                                                                                                                                                                                                                                                                                                                                                 |Quantity|Notes                                              |
@@ -23,3 +24,4 @@ I decided to make it because i need more time for fallout and it seemed like a s
 |100nF Cap                  |$1.58|https://www.aliexpress.us/item/3256802327709422.html?algo_exp_id=1eb7f3bd-4212-4056-b126-b8978d5f2388-0&pdp_ext_f=%7B%22order%22%3A%22251%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002514024174%7C_p_origin_prod%3A                                                                                                               |1       |Technically optional, but idk                      |
 |Pushbuttons                |$0.99|https://www.aliexpress.us/item/2251832687083572.html?algo_exp_id=f1680402-12bf-4261-921e-e1ba355f5f7b-6&pdp_ext_f=%7B%22order%22%3A%22366%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32873398324%7C_p_origin_prod%3A                                                                                                                    |2       |For input                                          |
 |3d printed parts (optional)|$0   |N/A                                                                                                                                                                                                                                                                                                                                                                                                                  |1       |Not needed but just there ig                       |
+[Zine.pdf](https://github.com/user-attachments/files/28614298/A5.-.1.pdf) [Onshape Link](https://cad.onshape.com/documents/6bae658a93b5202cb1d65720/w/262ed20c1d065847a6e9fe33/e/d5b84e51281ce6e2ab1dc7be?renderMode=0&uiState=6a21ee64cb0cf06db49b53b7)
