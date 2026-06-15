@@ -4,7 +4,7 @@ A simple timer that uses an RTC, A pi Pico, Some buttons, and some cheap 7 segme
 
 
 <img width="420" height="595" alt="A5 - 1" src="https://github.com/user-attachments/assets/4ae83264-a52e-4e0d-a913-774f428f5e3a" />
-<img width="319" height="235" alt="image" src="https://github.com/user-attachments/assets/0ba8a0ad-52c9-4e15-8de2-1db5d18960f5" />
+<img width="547" height="588" alt="image" src="https://github.com/user-attachments/assets/d73d974d-5861-4c56-a7b8-f2b7672c5cf1" />
 
 
 
