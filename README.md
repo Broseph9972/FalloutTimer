@@ -1,20 +1,20 @@
 # FalloutTimer
 A simple timer that uses an RTC, A pi Pico, Some buttons, and some cheap 7 segment displays to tell you how much time is left in Hack club fallout!
 (Can be used for other things as well)
+[Zine.pdf](https://github.com/user-attachments/files/28614298/A5.-.1.pdf) 
+[Onshape Link](https://cad.onshape.com/documents/6bae658a93b5202cb1d65720/w/262ed20c1d065847a6e9fe33/e/d5b84e51281ce6e2ab1dc7be?renderMode=0&uiState=6a21ee64cb0cf06db49b53b7)
 
 
 <img width="420" height="595" alt="A5 - 1" src="https://github.com/user-attachments/assets/4ae83264-a52e-4e0d-a913-774f428f5e3a" />
 <img width="547" height="588" alt="image" src="https://github.com/user-attachments/assets/d73d974d-5861-4c56-a7b8-f2b7672c5cf1" />
 
-
+---
 
 It displays the time left in fallout with Day,Hour,Minutes,Seconds, similar to the fallout website. also i might get it to check streaks too maybe? <- no wifi so probably not. u would need a pico w aswell. to 
 # Assembly
 
 Assembly is relatively simple, Solder the pico, buttons, caps, and RTC, into the spots they appear on the pcb/zine. look at the zine for info about how to solder the 7-seg display, then flash the firmware by holding down the boot button on the pico while plugging it in. then compile the code and drop the uf2 into the pico's flash. it should reboot and work. Thats really all you need.
 
-[Zine.pdf](https://github.com/user-attachments/files/28614298/A5.-.1.pdf) 
-[Onshape Link](https://cad.onshape.com/documents/6bae658a93b5202cb1d65720/w/262ed20c1d065847a6e9fe33/e/d5b84e51281ce6e2ab1dc7be?renderMode=0&uiState=6a21ee64cb0cf06db49b53b7)
 
 I decided to make it because i need more time for fallout and it seemed like a simple project i could do to increase my amount of approved hours. also it looks cool as wall deco. ill probably bring it to fallout to show the amount of time left
 <img width="1320" height="728" alt="image" src="https://github.com/user-attachments/assets/94dfe786-1922-444d-891d-0245b29c5797" />
