@@ -9,8 +9,10 @@ A simple timer that uses an RTC, A pi Pico, Some buttons, and some cheap 7 segme
 
 
 It displays the time left in fallout with Day,Hour,Minutes,Seconds, similar to the fallout website. also i might get it to check streaks too maybe? <- no wifi so probably not. u would need a pico w aswell. to 
+# Assembly
 
-Assembly is relatively simple, solder parts into their respective spots pico, buttons, caps, and the RTC, look at the zine for info about how to solder the 7-seg display, then flash the firmware by holding down the boot button on the pico while plugging it in. then compile the code and drop the uf2 into the pico's flash. it should reboot and work.
+Assembly is relatively simple, Solder the pico, buttons, caps, and RTC, into the spots they appear on the pcb/zine. look at the zine for info about how to solder the 7-seg display, then flash the firmware by holding down the boot button on the pico while plugging it in. then compile the code and drop the uf2 into the pico's flash. it should reboot and work. Thats really all you need.
+
 [Zine.pdf](https://github.com/user-attachments/files/28614298/A5.-.1.pdf) 
 [Onshape Link](https://cad.onshape.com/documents/6bae658a93b5202cb1d65720/w/262ed20c1d065847a6e9fe33/e/d5b84e51281ce6e2ab1dc7be?renderMode=0&uiState=6a21ee64cb0cf06db49b53b7)
 
