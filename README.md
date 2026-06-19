@@ -6,7 +6,8 @@ A simple timer that uses an RTC, A pi Pico, Some buttons, and some cheap 7 segme
 <img width="547" height="588" alt="image" src="https://github.com/user-attachments/assets/d73d974d-5861-4c56-a7b8-f2b7672c5cf1" />
 
 ---
-
+A simple timer that uses an RTC, A pi Pico, Some buttons, and some cheap 7 segment displays to tell you how much time is left in Hack club fallout!
+(Can be used for other things as well)
 # Assembly
 
 Assembly is relatively simple, Solder the pico, buttons, caps, and RTC, into the spots they appear on the pcb/zine. look at the zine for info about how to solder the 7-seg display, then flash the firmware by holding down the boot button on the pico while plugging it in. then compile the code and drop the uf2 into the pico's flash. it should reboot and work. Thats really all you need.
