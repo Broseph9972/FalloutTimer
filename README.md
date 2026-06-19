@@ -1,6 +1,4 @@
 # FalloutTimer
-A simple timer that uses an RTC, A pi Pico, Some buttons, and some cheap 7 segment displays to tell you how much time is left in Hack club fallout!
-(Can be used for other things as well)
 <img width="420" height="595" alt="Zine" src="https://github.com/user-attachments/assets/5fab6958-fccc-409f-8009-d1590e938ef2" />
 
 <img width="547" height="588" alt="image" src="https://github.com/user-attachments/assets/d73d974d-5861-4c56-a7b8-f2b7672c5cf1" />
