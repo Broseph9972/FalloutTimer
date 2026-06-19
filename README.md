@@ -2,7 +2,7 @@
 A simple timer that uses an RTC, A pi Pico, Some buttons, and some cheap 7 segment displays to tell you how much time is left in Hack club fallout!
 (Can be used for other things as well)
 [Zine.pdf](https://github.com/user-attachments/files/28614298/A5.-.1.pdf) 
-[Onshape Link](https://cad.onshape.com/documents/6bae658a93b5202cb1d65720/w/262ed20c1d065847a6e9fe33/e/d5b84e51281ce6e2ab1dc7be?renderMode=0&uiState=6a21ee64cb0cf06db49b53b7)
+
 
 
 <img width="420" height="595" alt="A5 - 1" src="https://github.com/user-attachments/assets/4ae83264-a52e-4e0d-a913-774f428f5e3a" />
