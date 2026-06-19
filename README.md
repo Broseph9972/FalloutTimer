@@ -2,14 +2,17 @@
 <img width="420" height="595" alt="Zine" src="https://github.com/user-attachments/assets/5fab6958-fccc-409f-8009-d1590e938ef2" />
 
 <img width="547" height="588" alt="image" src="https://github.com/user-attachments/assets/d73d974d-5861-4c56-a7b8-f2b7672c5cf1" />
+<img width="1420" height="642" alt="Casing v5" src="https://github.com/user-attachments/assets/0e4d0026-8855-4699-9a31-4f330b604739" />
 
 ---
-A simple timer that uses an RTC, A pi Pico, Some buttons, and some cheap 7 segment displays to tell you how much time is left in Hack club fallout!
+The FalloutTimer™ is a simple timer that uses an RTC, A pi Pico, Some buttons, and some cheap 7 segment displays to tell you how much time is left in Hack club fallout!
 (Can be used for other things as well)
 # Assembly
 
 Assembly is relatively simple, Solder the pico, buttons, caps, and RTC, into the spots they appear on the pcb/zine. look at the zine for info about how to solder the 7-seg display, then flash the firmware by holding down the boot button on the pico while plugging it in. then compile the code and drop the uf2 into the pico's flash. it should reboot and work. Thats really all you need.
-
+--- 
+# Usage
+Simply set the time via the buttons on the bottom. left button controls days and hrs, left controls mins. seconds are always set to zero for simplicity. if you click the left button it will change hrs, if u hold it down, then it will change days. Thats basically it.
 ---
 ## Why?
 I decided to make it because i need more time for fallout and it seemed like a simple project i could do to increase my amount of approved hours. also it looks cool as wall deco. ill probably bring it to fallout to show the amount of time left
